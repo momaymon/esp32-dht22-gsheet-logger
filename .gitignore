@@ -1,0 +1,5 @@
+# WiFi password and Apps Script URL
+secrets.h
+build/
+*.bin
+.vscode/
