@@ -25,6 +25,13 @@ flowchart LR
 
 เซนเซอร์แบบเปล่า (ไม่ใช่โมดูล) ต้องต่อตัวต้านทาน 10kΩ จาก DATA ไป 3V3 · ห้ามใช้ขา 34/35/36/39 เพราะเป็นขารับเข้าอย่างเดียว
 
+### 🛒 ซื้ออุปกรณ์
+
+| อุปกรณ์ | ซื้อได้ที่ |
+| --- | --- |
+| ESP32 (WiFi, USB Type-C) | [Globalbyte — ESP32 WiFi USB Type-C Board](https://globalbyteshop.com/products/esp32-wifi-usb-type-c-board) |
+| DHT22 (AM2302) | [Globalbyte — DHT22 AM2302 Temperature and Humidity Sensor](https://globalbyteshop.com/products/dht22-am2302-temperature-and-humidity-sensor) |
+
 ## ติดตั้ง
 
 1. **Google Sheet + Apps Script**
